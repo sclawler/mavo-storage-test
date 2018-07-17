@@ -10,7 +10,9 @@
 		},
 		{
 			"articleBody": "<p>Some <strong>text</strong> for the <em>last</em> article.</p>\n<ol>\n<li>first item</li>\n<li>second item</li>\n<li>third item</li>\n</ol>\n<h3>Let'sa go!</h3>\n<p>Wise words from a deranged plummer.</p>",
-			"articleTitle": "It'sa Last Article"
+			"articleTitle": "It'sa Last Article",
+			"name": "Dragonball"
 		}
-	]
+	],
+	"image": "img/Dragonball.svg"
 }
