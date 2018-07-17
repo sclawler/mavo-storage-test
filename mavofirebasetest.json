@@ -1,0 +1,12 @@
+{
+	"article": [
+		{
+			"articleTitle": "Oh Hi",
+			"articleBody": "Hello!"
+		},
+		{
+			"articleTitle": "Second Article",
+			"articleBody": "I'm an article yo."
+		}
+	]
+}
